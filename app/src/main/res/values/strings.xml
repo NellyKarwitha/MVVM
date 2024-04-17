@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Infinite</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_image">ImageActivity</string>
+    <string name="title_activity_input">InputActivity</string>
+    <string name="title_activity_assignment">AssignmentActivity</string>
+    <string name="title_activity_assignment2">AssignmentActivity2</string>
+    <string name="title_activity_assignment3">AssignmentActivity3</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_webview">WebviewActivity</string>
+</resources>
